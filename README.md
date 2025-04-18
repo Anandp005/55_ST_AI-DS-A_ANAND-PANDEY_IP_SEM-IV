@@ -1,4 +1,4 @@
-# 55_ST_AI-DS-A_ANAND-PANDEY_IP_SEM-IV
+# 55_ST_AI&DS-A_ANAND-PANDEY_IP_SEM-IV
 WEATHER WEB APP
 
 A sleek and responsive weather web application that provides real-time weather information for any city using the OpenWeatherMap API.
